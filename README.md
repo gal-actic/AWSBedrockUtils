@@ -30,7 +30,7 @@ Demonstrates the usage of AWS Bedrock API models for generating text and images.
 
 4. **Finally, run the following command**:
     ```bash
-    python app.py
+    python titantextG1.py
     ```
 
 5. **Now**:
