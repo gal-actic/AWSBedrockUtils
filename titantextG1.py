@@ -2,7 +2,7 @@ import boto3
 import json
 
 inputText_data=""""
-write a poem in style of best English poet of 2023 where subject is beauty of nature
+write a poem in style of best English poet where subject is beauty of nature
 
 """
 
